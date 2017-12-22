@@ -1,6 +1,12 @@
 # MobileMiner
 CPU Miner for ARM64 iOS Devices
 
+DONATE: 
+BTC: 19mg4G5NDmnBPGXPE4Tuhez6dG9PaLSdLd
+BCH: 1JRGea78BCgqWcHyhLYwrojn9XSpnHWdDf
+ETH: 0x571C657601c2cc9cF1EFB4966B3E68A3256f851c
+LTC: LceT5SoXr1NqHVA6ocBTUar28Ni3zWph8j
+
 This is a fork of Lucas Jones's cpuminer-multi, ( https://github.com/lucasjones/cpuminer-multi ) compiled for arm64 iOS devices. Credits go to the initial developers and contributors.
 
 # Compiled iOS App
